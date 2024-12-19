@@ -1,0 +1,4 @@
+# Ignorar carga de archivos power bi por tamaño
+*.pbix
+*.csv
+*.xlsx
